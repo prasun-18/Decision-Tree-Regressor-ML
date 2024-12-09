@@ -11,7 +11,7 @@ This project demonstrates the implementation of a **Decision Tree Regressor** to
 - [Evaluation Metrics](#evaluation-metrics)
 - [How to Use](#how-to-use)
 - [Output Example](#output-example)
-- [License](#license)
+
 
 ## Prerequisites
 
